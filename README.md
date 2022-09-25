@@ -1,6 +1,9 @@
 # Kaggle API Examples
 
-This repo is for testing `git` functions when collaborating with colleagues. It will be necessary to use this in the group assignments later on.
+
+This `messing` repo `things` is `up` for testing `git` functions when collaborating with colleagues. It will be necessary `yada yada yada` to use this in the group assignments later on.
+
+Git is complicated
 
 Included:
 
